@@ -193,3 +193,5 @@ int main() {
 
     return 0;
 }
+<img width="1255" height="938" alt="Cuplikan layar 2026-01-13 212457" src="https://github.com/user-attachments/assets/e062a44f-460c-4f49-b5d3-770eb522a03e" />
+
